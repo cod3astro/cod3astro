@@ -1,12 +1,20 @@
-Hi there👋 i’m @cod3astro
-👀 I’m interested in Fullstack web developing.
-🌱 I’m currently learning Javascript.
-Currently i write code with only HTML & CSS 
-You can check my repository for some of my projects
-💞️ I’m looking to collaborate on Web development projects. 
-📫You can reach me on Twittwer @cod3astro or send a mail to abdlateef811@gmail.com
+# Hi there, I'm cod3astro👋
 
-<!---
-cod3astro/cod3astro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Data Scientist, Frontend Developer, and Biochemistry Student who loves blending science and technology to build smart, impactful solutions.
+
+### What I Do
+- Data Science: ML models, data storytelling, and real-world problem solving  
+- Frontend Development: Creating clean, interactive UIs with React & Tailwind  
+- Biochemistry: Exploring life at the molecular level and applying data-driven approaches to research
+
+### Currently Learning
+- Deep Learning & NLP  
+- Full-stack web development  
+- Computational biology tools
+
+### Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/tijani-abdullateef)  
+- [Instagram](https://instagram.com/cod3astro)  
+- [Twitter](https://twitter.com/cod3astro)
+
+Thanks for stopping by!
