@@ -1,16 +1,23 @@
-# Hi there, I'm cod3astro👋
+Hi there, I'm cod3astro 👋
+I'm a Data Scientist, Biochemistry Student, and an Aspiring Bioinformatician passionate about blending science and technology to build data-driven, impactful solutions—especially in health and life sciences.
 
-I'm a Data Scientist, Frontend Developer, and Biochemistry Student who loves blending science and technology to build smart, impactful solutions.
+What I Do
+Machine Learning: Building predictive models, applying feature engineering, and solving real-world problems with data
 
-### What I Do
-- Data Science: ML models, data storytelling, and real-world problem solving  
-- Frontend Development: Creating clean, interactive UIs with React & Tailwind  
-- Biochemistry: Exploring life at the molecular level and applying data-driven approaches to research
+Data Storytelling: Turning complex datasets into clear, actionable insights
 
-### Currently Learning
-- Deep Learning & NLP  
-- Full-stack web development  
-- Computational biology tools
+Biochemistry + Data: Exploring life at the molecular level using analytical and computational tools
+
+Frontend (Occasionally): Creating clean, responsive UIs with React and Tailwind when needed
+
+Currently Learning
+Advanced Machine Learning
+
+Computational Biology Tools & Pipelines
+
+Full-stack Web Development (lightly)
+
+Preparing to Dive into Deep Learning & NLP
 
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/tijani-abdullateef)  
