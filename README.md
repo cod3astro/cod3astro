@@ -2,8 +2,7 @@ Hi there, I'm cod3astro 👋
 I'm a Data Scientist, Biochemistry Student, and an Aspiring Bioinformatician passionate about blending science and technology to build data-driven, impactful solutions especially in health and life sciences.
 
 What I Do:
-
-Machine Learning; Building predictive models, applying feature engineering, and solving real-world problems with data
+Machine Learning: Building predictive models, applying feature engineering, and solving real-world problems with data
 
 Data Storytelling: Turning complex datasets into clear, actionable insights
 
