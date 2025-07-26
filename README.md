@@ -6,7 +6,7 @@ Machine Learning: Building predictive models, applying feature engineering, and 
 
 Data Storytelling: Turning complex datasets into clear, actionable insights
 
-Biochemistry + Data: Exploring life at the molecular level using analytical and computational tools
+Biochemistry + Data: Exploring life at the molecular level using analytical and computational tools.
 
 Frontend (Occasionally): Creating clean, responsive UIs with React and Tailwind when needed
 
