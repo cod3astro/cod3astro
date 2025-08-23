@@ -24,5 +24,5 @@ Preparing to Dive into Deep Learning & NLP
 - [Instagram](https://instagram.com/cod3astro)  
 - [Twitter](https://twitter.com/cod3astro)
 
-Also, I will be adding some new files for ML to these repo
+Also, I will be adding some new files for ML to these repo,
 Thanks for stopping by!
