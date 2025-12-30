@@ -15,12 +15,10 @@ Advanced Machine Learning
 
 Computational Biology Tools & Pipelines
 
-Full-stack Web Development (lightly)
-
 Preparing to Dive into Deep Learning & NLP
 
 ### Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/tijani-abdullateef)  
+- [LinkedIn](https://www.linkedin.com/in/abdullateef-tijani)  
 - [Instagram](https://instagram.com/cod3astro)  
 - [Twitter](https://twitter.com/cod3astro)
 
