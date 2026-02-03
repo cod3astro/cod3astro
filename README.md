@@ -13,7 +13,7 @@ Frontend (Occasionally): Creating clean, responsive UIs with React and Tailwind 
 Currently Learning
 Advanced Machine Learning
 
-Computational Biology Tools & Pipelines
+Computational Biology Tools & Pipelines.
 
 Preparing to Dive into Deep Learning & NLP
 
