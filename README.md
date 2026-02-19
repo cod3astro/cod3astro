@@ -9,7 +9,7 @@ Data Storytelling: Turning complex datasets into clear, actionable insights
 Biochemistry + Data: Exploring life at the molecular level using analytical and computational tools.
 
 Frontend (Occasionally): Creating clean, responsive UIs with React and Tailwind when needed
- 
+
 Currently Learning
 Advanced Machine Learning
 
