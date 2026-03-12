@@ -11,7 +11,7 @@ Biochemistry + Data: Exploring life at the molecular level using analytical and 
 Frontend (Occasionally): Creating clean, responsive UIs with React and Tailwind when needed
 
 Currently Learning
-Advanced Machine Learning
+Advanced Machine Learning.
 
 Computational Biology Tools & Pipelines.
 
