@@ -1,26 +1,27 @@
-Hi there, I'm cod3astro👋
-I'm a Data Scientist, Biochemistry Student, and an Aspiring Bioinformatician passionate about blending science and technology to build data-driven, impactful solutions especially in health and life sciences.
+Hi there, I'm abdlateef👋
 
-What I Do:
-Machine Learning: Building predictive models, applying feature engineering, and solving real-world problems with data
+A Final-Year Biochemistry Student, exploring the intersection of Biochem and Data Science, passionate about combining Biology and Technology to build data-driven solutions in health and life sciences.  I’m exploring fields like Computational Biology, Bioinformatics, Genomics, Genetic Engineering, and Biotechnology as I shape my path toward graduate studies.
 
-Data Storytelling: Turning complex datasets into clear, actionable insights.
+🚀 What I Do
+Machine Learning & Deep Learning: Building predictive models and working with neural networks to solve real-world biological problems.
 
-Biochemistry + Data: Exploring life at the molecular level using analytical and computational tools.
+Bio + Data Integration: Applying computational approaches to understand biological systems, especially protein function prediction.
 
-Frontend (Occasionally): Creating clean, responsive UIs with React and Tailwind when needed
+Spatial Data Exploration: Expanding into spatial data to enhance biological modeling and improve predictive accuracy.
 
-Currently Learning
-Advanced Machine Learning.
+Data Storytelling: Transforming complex datasets into clear, actionable insights.
 
-Computational Biology Tools & Pipelines.
+Frontend: Developing simple, responsive interfaces with React and JavaScript to make ML projects more accessible.
 
-Preparing to Dive into Deep Learning & NLP
+📚 Currently Learning
+Deep Learning & Neural Networks
+Advanced Machine Learning Techniques
+Computational Biology Tools & Pipelines
+Spatial Data Applications in Bioinformatics
 
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/abdullateef-tijani)  
 - [Instagram](https://instagram.com/cod3astro)  
 - [Twitter](https://twitter.com/cod3astro)
 
-Also, I will be adding some new files for ML to these repo,
 Thanks for stopping by! 
