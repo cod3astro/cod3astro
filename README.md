@@ -3,6 +3,7 @@ Hi there, I'm abdlateef👋
 A Final-Year Biochemistry Student, exploring the intersection of Biochem and Data Science, passionate about combining Biology and Technology to build data-driven solutions in health and life sciences.  I’m exploring fields like Computational Biology, Bioinformatics, Genomics, Genetic Engineering, and Biotechnology as I shape my path toward graduate studies.
 
 🚀 What I Do
+
 Machine Learning & Deep Learning: Building predictive models and working with neural networks to solve real-world biological problems.
 
 Bio + Data Integration: Applying computational approaches to understand biological systems, especially protein function prediction.
@@ -15,8 +16,11 @@ Frontend: Developing simple, responsive interfaces with React and JavaScript to 
 
 📚 Currently Learning
 Deep Learning & Neural Networks
+
 Advanced Machine Learning Techniques
+
 Computational Biology Tools & Pipelines
+
 Spatial Data Applications in Bioinformatics
 
 ### Let's Connect
