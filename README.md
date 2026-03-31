@@ -32,4 +32,4 @@ Spatial Data Applications in Bioinformatics
 - [Instagram](https://instagram.com/cod3astro)  
 - [Twitter](https://twitter.com/cod3astro)
 
-Thanks for stopping by! 
+Thanks for stopping by!
