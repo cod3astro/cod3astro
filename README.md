@@ -21,7 +21,7 @@ Frontend: Developing simple, responsive interfaces with React and JavaScript to 
 📚 Currently Learning;
 Deep Learning & Neural Networks
 
-Advanced Machine Learning Techniques
+Advanced Machine Learning Techniques 
 
 Computational Biology Tools & Pipelines
 
