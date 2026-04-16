@@ -19,7 +19,7 @@ Frontend: Developing simple, responsive interfaces with React and JavaScript to 
 
 
 📚 Currently Learning;
-Deep Learning & Neural Networks
+Deep Learning & Neural Networks 
 
 Advanced Machine Learning Techniques
 
