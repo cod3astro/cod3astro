@@ -23,7 +23,7 @@ Deep Learning & Neural Networks
 
 Advanced Machine Learning Techniques
 
-Computational Biology Tools & Pipelines
+Computational Biology Tools & Pipelines 
 
 Spatial Data Applications in Bioinformatics
 
