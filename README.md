@@ -12,7 +12,7 @@ Bio + Data Integration: Applying computational approaches to understand biologic
 
 Spatial Data Exploration: Expanding into spatial data to enhance biological modeling and improve predictive accuracy.
 
-Data Storytelling: Transforming complex datasets into clear, actionable insights.
+Data Storytelling: Transforming complex datasets into clear, actionable insights. 
 
 Frontend: Developing simple, responsive interfaces with React and JavaScript to make ML projects more accessible.
 
