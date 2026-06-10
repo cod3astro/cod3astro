@@ -1,31 +1,25 @@
-Hi there, I'm abdlateef👋
+👋Hi, I'm Abdullateef, A Final year Biochemistry student building at the intersection of Machine Learning, AI, and Computational Biology.
 
-A Final-Year Biochemistry Student, exploring the intersection of Biochem and Data Science, passionate about combining Biology and Technology to build data-driven solutions in health and life sciences.  I’m exploring fields like Computational Biology, Bioinformatics, Genomics, Genetic Engineering, and Biotechnology as I shape my path toward graduate studies.
-
-
-
-🚀 What I Do
-
-Machine Learning & Deep Learning: Building predictive models and working with neural networks to solve real-world biological problems.
-
-Bio + Data Integration: Applying computational approaches to understand biological systems, especially protein function prediction.
-
-Spatial Data Exploration: Expanding into spatial data to enhance biological modeling and improve predictive accuracy.
-
-Data Storytelling: Transforming complex datasets into clear, actionable insights.
-
-Frontend: Developing simple, responsive interfaces with React and JavaScript to make ML projects more accessible.
+My work focuses on applying deep learning and AI to solve hard biological problems, from predicting protein function at scale to uncovering molecular patterns hidden inside omics data. I am particularly drawn to projects where the biology drives the model design, not the other way around.
 
 
 
-📚 Currently Learning; 
-Deep Learning & Neural Networks
+🧠 What I Work With
 
-Advanced Machine Learning Techniques
+AI & Machine Learning: Designing and training deep learning models (MLPs, neural networks) with PyTorch and TensorFlow. Experienced with ensemble methods, focal loss, threshold calibration, and building systems that handle extreme class imbalance in biological datasets.
 
-Computational Biology Tools & Pipelines
+Computational Biology & Bioinformatics: Multi-omics analysis spanning transcriptomics, proteomics, and metabolomics. Comfortable across the full pipeline, raw data processing, statistical analysis (DEG, survival analysis, pathway enrichment), and biological interpretation.
 
-Spatial Data Applications in Bioinformatics
+Backend & Deployment: Building production-ready REST APIs with FastAPI to serve ML models in real laboratory-facing web applications.
+
+Frontend: Creating clean, responsive interfaces with React and JavaScript to make computational tools accessible beyond the terminal.
+
+
+
+🔬 Background
+
+Wet-laboratory trained across clinical haematology, clinical chemistry, microbiology, and histopathology — which means I understand the biology behind the data, not just the data itself.
+📍 Currently open to graduate opportunities and research collaborations in bioinformatics and computational biology.
 
 ### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/abdullateef-tijani)  
