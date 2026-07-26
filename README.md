@@ -13,7 +13,7 @@ world.
 
 🧬 Computational Biology & Bioinformatics
 
-
+ 
 I am comfortable across the full bioinformatics pipeline. On the omics side, my work spans transcriptomics (differential gene expression, RNA-seq analysis), metabolomics (LC-MS data interpretation), proteomics (protein feature engineering and function annotation), and survival analysis in clinical genomics datasets. I use GO and KEGG pathway enrichment to move from a list of genes or proteins to a biological story. I work in both Python and R depending on what the problem demands, and I understand the statistical reasoning behind the tools i use, not just how to run them.
 
 
