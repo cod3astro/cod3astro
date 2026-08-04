@@ -17,7 +17,7 @@ world.
 I am comfortable across the full bioinformatics pipeline. On the omics side, my work spans transcriptomics (differential gene expression, RNA-seq analysis), metabolomics (LC-MS data interpretation), proteomics (protein feature engineering and function annotation), and survival analysis in clinical genomics datasets. I use GO and KEGG pathway enrichment to move from a list of genes or proteins to a biological story. I work in both Python and R depending on what the problem demands, and I understand the statistical reasoning behind the tools i use, not just how to run them.
 
 
-⚙️ Backend, APIs & Deployment
+⚙️ Backend, APIs & Deployment 
 
 
 Building a model is only half the work. I use FastAPI to build production-ready REST APIs that serve ML models to real users, handling everything from single-input queries to batch file uploads, memory-efficient model loading, and clean endpoint design. I think about deployment from the start of a project, not as an afterthought.
