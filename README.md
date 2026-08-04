@@ -3,7 +3,7 @@
 My focus is on designing and applying AI and machine learning systems to solve problems that matter in biology and medicine, protein function prediction, multi-omics data analysis, transcriptomic pattern discovery, and the development of computational tools that work in resource-limited environments, not just on expensive GPU clusters.
 
 
-🧠 Machine Learning & Deep Learning
+🧠 Machine Learning & Deep Learning 
 
 
 
