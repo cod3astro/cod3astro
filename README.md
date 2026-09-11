@@ -1,4 +1,4 @@
-### Hi, I'm Abdullateef Tijani
+### Hi, I'm Abdullateef Tijani 
 
 A Biochemistry graduate building at the intersection of Machine Learning, AI, Bioinformatics, and Computational Biology.
 
