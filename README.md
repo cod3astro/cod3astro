@@ -18,7 +18,7 @@ Building a model is only half the work. I package my analysis pipelines as FastA
 
 ### Wet Lab Foundation
 
-I'm not purely a computational person. Hands-on clinical laboratory training, haematology, clinical chemistry, microbiology, histopathology, means i understand the biological context behind omics data: where it comes from, what can go wrong during collection, and why certain patterns show up in the numbers.
+I'm not purely a computational person. Hands-on clinical laboratory training, haematology, clinical chemistry, microbiology, histopathology, means i understand the biological context behind omics data: where it comes from, what can go wrong during collection, and why certain patterns show up in the numbers. 
 
 ### Currently
 
