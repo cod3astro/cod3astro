@@ -12,7 +12,7 @@ Comfortable across the full bioinformatics pipeline: transcriptomics (differenti
 
 I work primarily in PyTorch and TensorFlow, building deep learning systems from the ground up rather than plugging data into existing frameworks. My experience includes designing multi-layer perceptron ensembles, handling extreme class imbalance through custom focal loss functions and dynamic class weighting, automated threshold calibration pipelines, and hierarchical inference architectures that cut computational cost without sacrificing prediction quality.
 
-### Turning Models Into Usable Tools
+### Turning Models Into Usable Tools 
 
 Building a model is only half the work. I package my analysis pipelines as FastAPI backends with React frontend so the tools i build are actually usable by other researchers and clinicians, not just runnable from my own terminal. I think about deployment from the start of a project, not as an afterthought.
 
