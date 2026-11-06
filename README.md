@@ -8,7 +8,7 @@ My focus is on designing and applying AI/ML systems to problems that matter in b
 
 Comfortable across the full bioinformatics pipeline: transcriptomics (differential gene expression, RNA-seq analysis), metabolomics, proteomics (protein feature engineering and function annotation), and survival analysis in clinical genomics datasets. I use GO and KEGG pathway enrichment to move from a list of genes or proteins to a biological story, working in both Python and R depending on what the problem demands, and i care about the statistical reasoning behind the tools i use, not just how to run them.
 
-### Machine Learning & Deep Learning
+### Machine Learning & Deep Learning 
 
 I work primarily in PyTorch and TensorFlow, building deep learning systems from the ground up rather than plugging data into existing frameworks. My experience includes designing multi-layer perceptron ensembles, handling extreme class imbalance through custom focal loss functions and dynamic class weighting, automated threshold calibration pipelines, and hierarchical inference architectures that cut computational cost without sacrificing prediction quality.
 
